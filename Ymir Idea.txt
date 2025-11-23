@@ -1,0 +1,3 @@
+my idea, while building Ymir the ultimate security layer anyone could import a software, pprogram, crypto wallet, last will an testament, well you get the idea, a secure place for pressius data storage.  
+further food for thought, the visual aid representaition to help the building process of the "layers" it all looks like a ubiks cube, where every individual cube incudes a securety software, manning, to get whats in the middle you would firts have to hack all this "dimentions" first to open Ymir
+Meaning a loty of onions layers to the whole core structure  
