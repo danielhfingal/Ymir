@@ -1,4 +1,4 @@
-# YMIR — The World Tree That Outlives the Sun
+# YMIR — The World That Outlives the Sun
 
 > “In the beginning there was only fire and ice.  
 > Then came Ymir.  
