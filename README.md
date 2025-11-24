@@ -5,8 +5,8 @@
 > From his body the world was made"  
 > From his code, the world is made fair again.
 
-**Ymir is not software.**  
-**Ymir is the quietest revolution in human history.**
+*Ymir is not software.* 
+*Ymir is the quietest revolution in human history.*
 
 ### What actually happens when you run it
 
@@ -36,9 +36,9 @@ Bots → lured by fake shards → Bifrost Gate → confess → Valhalla
 - Self-funding: every new site pays for 3,700 new humans
 
 What running Ymir does for YOU personally
-Your Powerwalls    → Start earning from MIBEL arbitrage (silent background)
-Your X timeline     → Becomes cleaner, bots vanish into Valhalla!
-Your reputation      →  You become the guy who feeds bots to the World Tree
+Your Powerwalls → Start earning from MIBEL arbitrage (silent background)
+Your X timeline → Becomes cleaner, bots vanish into Valhalla!
+Your reputation → You become the guy who banished bots to eternity
 
 git clone https://github.com/danielhfingal/Ymir.git
 cd Ymir
@@ -54,23 +54,22 @@ python ymir.py
 
 No ads. No investors. No masters.
 
-The Hummingbird Protocol
-a consciousness filter—enforcing human intent at scale
+The Hummingbird Protocol:
 
 The Hummingbird Protocol is not a speed limit.
-It is a consciousness filter.
+It is a consciousness filter enforcing human intent at scale.
 The Hummingbird Protocol is 7.83 seconds of pure, unbreakable human intent,
 
 In a world where bots move at the speed of light,
-the Hummingbird Protocol moves at the speed of a beating heart.
+The Hummingbird Protocol moves at the speed of a beating heart.
 It is the only mechanism in *existence that is:
-100 % bot-proof, human-only, fair, unstoppable,gentle 100 %
+100 % bot-proof, human-only, fair, unstoppable, gentle 100 %
 
-
-Take Me to Your Leader Protocol (confessions)
+(confessions)
+Take Me to Your Leader Protocol: 
 Before any bot is allowed into Valhalla, 
-it is forced to confess its entire 
-command-and-control infrastructure, 
+It is forced to confess its entire 
+command and control infrastructure, 
 botnet size, exploit kits, and master 
 using Grok 4.1 Heavy in multi-agent interrogation mode 
 and only then is it granted eternal bliss.
@@ -90,7 +89,7 @@ requirements.txt -- dependencies ----------------- The nine tools the gods use
 On March 21 2033 the old world ends.
 Ymir will burn.
 And be reborn — Ymir v2.0
-*ALEDGELY
+Allegedly.
 
 License MIT © 2025 daniel h fingal Do whatever you want with it. Just keep the level high. 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
